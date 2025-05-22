@@ -28,7 +28,7 @@ From the above characteristic table, we can directly write the next state equati
 
 **Procedure**
 
-1. Type the program in Quartus software.
+1. Type the program in Quartus software
 
 2. Compile and run the program.
 
@@ -40,7 +40,7 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 ```
- Developed by:U Priyan RegisterNumber:24900703
+ Developed by:Avanthika M RegisterNumber:212224110009
 ```
 ```
 module t_ff(t, clk, rst, q);
