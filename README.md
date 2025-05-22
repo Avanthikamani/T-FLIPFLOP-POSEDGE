@@ -40,7 +40,7 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 ```
- Developed by:U Priyan RegisterNumber:24900703
+ Developed by:Avanthika M RegisterNumber:212224110009
 ```
 ```
 module t_ff(t, clk, rst, q);
